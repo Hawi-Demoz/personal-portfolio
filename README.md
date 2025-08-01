@@ -11,11 +11,22 @@ Welcome to my personal portfolio website! This is where I showcase my projects, 
 -  Interests
 -  Contact Information
 
-
 ## Built With
 
 - Raw HTML
 - Raw CSS
+
+## Tech Stack
+
+| Category       | Tools Used                     |
+|----------------|-------------------------------|
+| Core           | HTML, CSS       |
+| 3D & Graphics  | CSS Transforms, Keyframes      |
+| Fonts          | Google Fonts, Font Awesome     |
+| Deployment     | GitHub Pages                   |
+| Version Control| Git & GitHub                   |
+
+---
 
 ## Live Demo
 
