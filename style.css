@@ -989,28 +989,31 @@ footer {
 }
 
 .email-btn {
-  background: linear-gradient(45deg, #9570c6, #9e93e6);
+  background: linear-gradient(45deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4));
   color: white;
 }
 
 .github-btn {
-  background: linear-gradient(45deg, #9570c6, #9e93e6);
+background: linear-gradient(45deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4));
   color: white;
+
 }
 
 .telegram-btn {
-  background: linear-gradient(45deg, #9570c6, #9e93e6);
+background: linear-gradient(45deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4));
   color: white;
 }
 
 .twitter-btn {
-  background: linear-gradient(45deg, #9570c6, #9e93e6);
+background: linear-gradient(45deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4));
   color: white;
+  text-align: center;
 
 }
 .call-btn{
-   background: linear-gradient(45deg, #9570c6, #9e93e6);
+background: linear-gradient(45deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4));
   color: white;
+  text-align: center;
 
 }
 .social-btn:hover {
