@@ -22,7 +22,7 @@ Welcome to my personal portfolio website! This is where I showcase my projects, 
 |----------------|-------------------------------|
 | Core           | HTML, CSS       |
 | 3D & Graphics  | CSS Transforms, Keyframes      |
-| Fonts          | Google Fonts, Font Awesome     |
+| Fonts          | Google Fonts     |
 | Deployment     | GitHub Pages                   |
 | Version Control| Git & GitHub                   |
 
