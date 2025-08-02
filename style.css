@@ -911,9 +911,7 @@ footer {
   color: #fff;
   padding: 2.5rem 1.5rem;
   text-align: center;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
-  box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.2);
+  /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;   */
   margin-top: auto;
   position: relative;
   z-index: 10;
@@ -1189,7 +1187,7 @@ background: linear-gradient(45deg, rgba(0, 0, 0, 0.4),rgba(0, 0, 0, 0.4));
   backdrop-filter: blur(4px);
   border: 1px solid rgba(255, 255, 255, 0.1);
   animation: fadeInUp 1s ease;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
   transition: transform 0.3s ease, background-color 0.3s ease;
 }
 
