@@ -1215,8 +1215,9 @@ footer {
   margin-top: 2rem;
   padding: 0.6rem 1.2rem;
   background-color: #00d6c1;
-  color: rgba(0, 0, 0, 0.4);
+  color: black;
   font-size: 1rem;
+  font-weight: bold;
   border-radius: 50px;
   text-decoration: none;
   transition: background-color 0.3s ease, transform 0.2s ease;
