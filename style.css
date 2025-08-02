@@ -251,7 +251,7 @@ span {
   justify-content: center;
   margin-left: 2rem;
   margin-bottom: 6rem;
-  perspective: 1000px; /* For 3D-like effect */
+  perspective: 1000px; 
 }
 
 .img-box img {
@@ -267,8 +267,8 @@ span {
 
 .img-box img:hover {
   transform: scale(1.1) rotateZ(3deg);
-  box-shadow: 0 8px 24px rgba(149, 112, 198, 0.6);
-  border: 3px solid #9570c6;
+  box-shadow: 0 8px 24px #00d6c1;
+  border: 3px solid#00d6c1;
 }
 
 @media (max-width: 768px) {
@@ -1185,7 +1185,7 @@ footer {
 .edu-content {
   background-color: rgba(0, 0, 0, 0.4);
   padding: 1.5rem;
-  border-radius: 10px;
+  border-radius: 30px;
   backdrop-filter: blur(4px);
   border: 1px solid rgba(255, 255, 255, 0.1);
   animation: fadeInUp 1s ease;
@@ -1215,7 +1215,7 @@ footer {
   margin-top: 2rem;
   padding: 0.6rem 1.2rem;
   background-color: #00d6c1;
-  color: white;
+  color: rgba(0, 0, 0, 0.4);
   font-size: 1rem;
   border-radius: 50px;
   text-decoration: none;
@@ -1229,7 +1229,6 @@ footer {
 }
 
 
-/* Reuse animations */
 @keyframes fadeInDown {
   from {
     opacity: 0;
@@ -1455,7 +1454,7 @@ span {
   position: fixed;
   bottom: 30px;
   left: 30px;
-  background-color:#ccc;
+  background-color:#333;
   color: #ffffff;
   font-size: 1rem;
   padding: 0.6rem 1rem;
